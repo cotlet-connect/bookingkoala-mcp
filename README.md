@@ -106,6 +106,7 @@ BookingKoala has no official MCP server. Cotlet.dev is a hosted MCP server that 
 - [BookingKoala on Cotlet.dev](https://cotlet.dev/integrations/bookingkoala-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=bookingkoala&utm_content=find)
 - [PyPI package bookingkoala-mcp](https://pypi.org/project/bookingkoala-mcp/)
 - [Odel](https://odel.app/modules/cotlet/bookingkoala)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/bookingkoala/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-bookingkoala-to-ai-agents-guide)
 
 ## Also works with
